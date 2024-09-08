@@ -14,7 +14,7 @@ friends = ['manish','mahesh','pranjal']
 #friends.pop(1) 
 #print(friends)
 #print(len (friends))
-friend['isNepali'] = True
+# friend['isNepali'] = True
 # del(friend['machine'])
 # print(friend['isNepali'])
 # print(friend.keys())
@@ -24,5 +24,6 @@ friend['isNepali'] = True
 #     print("name exists")
 # my_tuple = (1,2,1,4,'me',3.14)
 # print(my_tuple)
-my_set = {1,2,3,3,2}
-print(my_set)
+# my_set = {1,2,3,3,2}
+#doesnt repeat
+# print(my_set)
