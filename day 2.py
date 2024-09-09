@@ -1,10 +1,17 @@
-friend ={
-    'name' : 'pranjal',
-    'age' : 22, 
-    'machine' : 'lol'
-   }
+# friend ={
+#     'name' : 'pranjal',
+#     'age' : 22, 
+#     'machine' : 'lol'
+#    }
 
-friends = ['manish','mahesh','pranjal']
+# friends = ['manish','mahesh','pranjal']
+
+
+
+
+
+
+
 #friends.append('Anup')
 #friends.append('Bhojraj')
 #friends.insert(1, 'anuj')

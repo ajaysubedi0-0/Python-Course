@@ -57,13 +57,18 @@
 #---------------------
 
 
-student_grades = {
-    'pranjal' : 90,
-    'gopu' :49,
-    'mandip' : 78
-}
-for value in student_grades.values():
-    print(value)
+# student_grades = {
+#     'pranjal' : 90,
+#     'gopu' :49,
+#     'mandip' : 78
+# }
+# for value in student_grades.values():
+#     print(value)
+
+
+
+
+#------------------ String Loop ----------------------------------------------#
 
 # message = 'This much for today!'
 # for loop in message:
@@ -72,6 +77,6 @@ for value in student_grades.values():
 
 
 
-
-for num in range(1,11):
-    print(num)
+#------------------------------ Range function ----------------------------#
+# for num in range(1,11):
+#     print(num)
