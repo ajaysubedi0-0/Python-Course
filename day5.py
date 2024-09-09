@@ -51,4 +51,4 @@ class Dog(Animal):
 
 
 dog1 = Dog('german shepared')
-dog1.eat()
+# dog1.eat()
