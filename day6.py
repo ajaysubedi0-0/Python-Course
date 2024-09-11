@@ -132,5 +132,4 @@ class Progammer(Employee):
 manager = Manager('Bob',12058,5)
 progammer = Progammer('bobie',12059,'c++','Software Engineer')
 manager.display_info()
-\
 progammer.display_info()
